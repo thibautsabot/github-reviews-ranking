@@ -1,0 +1,17 @@
+{
+  "name": "github-reviews-ranking",
+  "version": "1.0.0",
+  "description": "GitHub Repository reviewers ranking",
+  "main": "src/main.js",
+  "scripts": {},
+  "author": "thibaut.sabot",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cli-table": "^0.3.1",
+    "node-emoji": "^1.10.0"
+  }
+}
