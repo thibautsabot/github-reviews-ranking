@@ -2,13 +2,13 @@
 
 ## How to use :
 
-- `npm install`
+- `npm install -g github-reviews-ranking`
 
-- `ACCESS_TOKEN=XXX REPO=xxx node src/main.js`
+- `ACCESS_TOKEN=XXX REPO=xxx github-reviews-ranking`
 
 With ACCESS_TOKEN your github token and REPO the name of your repository (including your own name) :
 
-Ex : `ACCESS_TOKEN=super_secret REPO=thibautsabot/github-reviews-ranking node src/main.js`
+Ex : `ACCESS_TOKEN=super_secret REPO=thibautsabot/github-reviews-ranking github-reviews-ranking`
 
 ### Change the number of pull request to fetch
 

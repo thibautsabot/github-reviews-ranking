@@ -2,10 +2,13 @@
   "name": "github-reviews-ranking",
   "version": "1.0.0",
   "description": "GitHub Repository reviewers ranking",
-  "main": "src/main.js",
+  "main": "lib/index.js",
   "scripts": {},
   "author": "thibaut.sabot",
   "license": "ISC",
+  "bin": {
+    "github-reviews-ranking": "./bin/index.js"
+  },
   "devDependencies": {
     "nodemon": "^1.18.10"
   },
