@@ -1,10 +1,12 @@
 {
   "name": "github-reviews-ranking",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "GitHub Repository reviewers ranking",
   "main": "lib/index.js",
-  "type": "git",
-  "url": "https://github.com/thibautsabot/github-reviews-ranking.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thibautsabot/github-reviews-ranking.git"
+  },
   "scripts": {},
   "author": "thibaut.sabot",
   "license": "ISC",
@@ -18,5 +20,11 @@
     "axios": "^0.18.0",
     "cli-table": "^0.3.1",
     "node-emoji": "^1.10.0"
-  }
+  },
+  "keywords": [
+    "github",
+    "ranking",
+    "pull request",
+    "review"
+  ]
 }
