@@ -1,8 +1,10 @@
 {
   "name": "github-reviews-ranking",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "GitHub Repository reviewers ranking",
   "main": "lib/index.js",
+  "type": "git",
+  "url": "https://github.com/thibautsabot/github-reviews-ranking.git",
   "scripts": {},
   "author": "thibaut.sabot",
   "license": "ISC",

@@ -24,4 +24,4 @@ Ex: If you go to github.mycompany.io use CUSTOM_DOMAIN=mycompany.io
 
 ## The output looks like this :
 
-<img src="https://github.com/thibautsabot/tools/blob/master/github-playground/output.png" width="400">
+![output](./output.png)
