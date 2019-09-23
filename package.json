@@ -1,6 +1,6 @@
 {
   "name": "github-reviews-ranking",
-  "version": "1.0.3",
+  "version": "1.0.1",
   "description": "GitHub Repository reviewers ranking",
   "main": "lib/index.js",
   "repository": {
